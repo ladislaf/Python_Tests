@@ -45,3 +45,4 @@ def gather_status(weekday):
 print gather_status("Tue")
 #newline
 #newline
+#newline
